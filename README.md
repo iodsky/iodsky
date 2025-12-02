@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Ibrahim
 
-<!--
-**iodsky/iodsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior IT student majoring in Software Development** and an aspiring **Backend Engineer** based in the Philippines.
 
-Here are some ideas to get you started:
+I enjoy building scalable backend systems and diving into the fundamentals behind modern computing, databases, cloud infrastructure, and devops.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack & Tools
+
+### **Backend Frameworks**
+- Spring Boot (strict typing for the win 😄)
+- Django REST Framework  
+- Express.js / NestJS  
+
+### **ORMs & Databases**
+- Hibernate 
+- Prisma  
+- Mongoose  
+- PostgreSQL
+- MySQL
+- MongoDB  
+
+### **Cloud & DevOps**
+- AWS  
+- Docker  
+- CI/CD
+
+Most of my projects are about building RESTful APIs and backend services that highlight my growing foundation in backend engineering.
+---
+
+## 💼 Experience & Collaboration
+
+I've worked extensively in collaborative and project-driven environments (thanks to **MMDC**) where I applied:
+- Agile & SCRUM methodologies  
+- Clean Git workflows  
+- Cross-functional teamwork  
+
+Before focusing on tech full-time, I worked as an **Annual Enrollment Specialist at ADP Philippines**, which strengthened my communication, project management, and problem-solving skills.
+
+---
+
+## 🎯 Current Focus
+
+- Backend engineering fundamentals  
+- Cloud-native development  
+- DevOps workflows and automation  
+
+---
+
+If you'd like to collaborate or check out what I'm working on, feel free to explore my repos! 🚀
